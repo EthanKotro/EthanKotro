@@ -1,7 +1,11 @@
-![Design and Development](https://github.com/EthanKotro/EthanKotro/blob/main/digital-hello-1532405.jpg)
+https://github.com/EthanKotro/EthanKotro/blob/main/digital-hello-1532405.jpg
 
 ## Ethan Kotro
-I am Ethan from Kenya. I am a Computer Science Major 
+I am Ethan , Computer Science Major from Kenya.
+
+## Skills:
+* 📱 Flutter
+* 💻 Html, Css , C++, Java
 <!--
 **EthanKotro/EthanKotro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
