@@ -1,4 +1,4 @@
-<img src="https://github.com/EthanKotro/EthanKotro/blob/main/digital-hello-1532405.jpg" height=200 width=360/>
+<img src="https://github.com/EthanKotro/EthanKotro/blob/main/digital-hello-1532405.jpg" />
 <!--![Design and Development](https://github.com/EthanKotro/EthanKotro/blob/main/digital-hello-1532405.jpg) -->
 
 ## Ethan Kotro
