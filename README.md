@@ -1,5 +1,7 @@
-## Hi there 👋
+![Design and Development](https://github.com/EthanKotro/EthanKotro/blob/main/digital-hello-1532405.jpg)
 
+## Ethan Kotro
+I am Ethan from Kenya. I am a Computer Science Major 
 <!--
 **EthanKotro/EthanKotro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
